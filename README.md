@@ -1,2 +1,2 @@
 # hello-world
-JuJust trying to learn R
+Just trying to learn R
